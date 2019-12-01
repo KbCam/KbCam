@@ -15,7 +15,6 @@
 - installer l'interpréteur python. Pour ce faire, rendez-vous sur le site suivant : https://www.python.org/downloads/
 - installer les bibliothèques citées précédemment à l'aide des commandes suivantes : 
     * pip install opencv-python
-    * pip install pyobjc
     * pip install pynput 
     * pip install wxpython
 
