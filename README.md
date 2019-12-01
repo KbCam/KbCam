@@ -1,14 +1,14 @@
 # KbCam
 # KbCam est une application à reconnaissance gestuelle. Elle permet de gérer les mouvements de la souris avec des gestes
 
-Langage utilisé : python 
+# Langage utilisé : python 
 
-Bibliothèques externes utilisées :
+# Bibliothèques externes utilisées :
 
--opencv
--numpy
--wx
--pynput
+- opencv
+- numpy
+- wx
+- pynput
 
 # Documentation d'installation :
 
